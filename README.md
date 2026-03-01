@@ -16,7 +16,9 @@ No default submit behavior for the button.
 random-quote-generator-panel/
 ├── index.html
 ├── styles.css
-└── script.js
+├── script.js
+├── README.md
+└── LICENSE
 ```
 
 ## Installation
